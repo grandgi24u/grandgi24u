@@ -1,7 +1,5 @@
 ### Clément GRANDGIRARD
 
-I am a Student at Cesi Nancy Engineer school.  
-I work at Stellantis Vesoul as a Project Manager in apprenticeship.
 
 ### Languages
 
